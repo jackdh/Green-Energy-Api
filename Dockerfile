@@ -11,5 +11,6 @@ COPY . .
 EXPOSE 3000
 
 ENV MONGO_URL=mongo
+ENV NODE_ENV=production
 
 CMD [ "yarn", "start" ]

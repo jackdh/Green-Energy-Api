@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const mongoose = require('mongoose');
 const debug = require('debug')('server.js');
+const router = require('./app/router');
 
 let collection = process.env.NODE_ENV === 'test' ? 'GreenEnergyTest' : 'GreenEnergy';
 
@@ -16,25 +17,21 @@ mongoose.connect(`mongodb://${url}:27017/${collection}`).then(() => {
 });
 
 // Move to router.js
-const readingsAccept = require('./app/readings/readings.accept');
-const readingsPresent = require('./app/readings/readings.present');
-const readingsPresentV2 = require('./app/readings/readings.present.v2');
-const utilities = require('./app/utils/generateCustomerId');
+
 
 const app = express();
 
-app.use(bodyParser.json({limit: '50mb'}));
-app.use(bodyParser.urlencoded({limit: '50mb', extended: true}));
+// Size limit can be increase to allow for more readings to be given at once.
+app.use(bodyParser.json({limit: '10mb'}));
+app.use(bodyParser.urlencoded({limit: '10mb', extended: true}));
 app.use(morgan('combined')); // Log HTTP requests
-app.use(bodyParser.urlencoded({extended: true}));
-app.use(bodyParser.json());
 
 const port = process.env.port || 3000;
 
-app.use('/api/v1/', readingsAccept);
-app.use('/api/v2/', readingsPresentV2);
-app.use('/api/v1/', readingsPresent);
-app.use('/api/v1/', utilities);
+app.use('/api/v1/', router.readingsAccept);
+app.use('/api/v2/', router.readingsPresentV2);
+app.use('/api/v1/', router.readingsPresent);
+app.use('/api/v1/', router.utilities);
 
 app.use((req, res, next) => {
     const err = new Error('Path not found');
@@ -42,6 +39,7 @@ app.use((req, res, next) => {
     next(err);
 });
 
+// Only spin up the server if we are not testing it.
 if (process.env.NODE_ENV !== 'test') app.listen(port);
 
 console.log(`App running on port ${port}`);

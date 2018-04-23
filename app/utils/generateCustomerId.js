@@ -18,7 +18,8 @@ router.get('/generateUniqueCustomerID', (req, res) => {
 });
 
 /**
- * Generates a truly unique customer id.
+ * Generates a truly unique customer id by first creating a UUID and then checking if it exists in the DB. If it does not
+ * then return it, otherwise create a new one.
  * @return {Promise<any>}
  */
 function generateCustomerID() {

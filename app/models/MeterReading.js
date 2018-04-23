@@ -1,6 +1,11 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
+/**
+ * Checks to make sure that the values passed into a "read" are valid. It will only accept if their are 2 reads
+ * and they are an object. The object will then be validated within the ReadSchema.
+ * @type {*[]}
+ */
 const readValidator = [
     {
         validator: (array) => array.length === 2,
@@ -15,6 +20,9 @@ const readValidator = [
     },
 ];
 
+/**
+ * The schema for each individual Read within a reading.
+ */
 const ReadSchema = new Schema({
     'type': {
         type: String,
@@ -35,6 +43,9 @@ const ReadSchema = new Schema({
     },
 });
 
+/**
+ * The main schema for a submitted reading.
+ */
 const MeterReadingSchema = new Schema({
     'customerId': {type: String, required: [true, 'Please define a customerId.']},
     'serialNumber': {type: Number, required: [true, 'Please define a serial number.']},

@@ -1,7 +1,6 @@
 const express = require('express');
 const router = new express.Router();
 const MeterReadings = require('../models/MeterReading');
-const uuidv1 = require('uuid/v1');
 const debug = require('debug')('readings.accept.js');
 
 

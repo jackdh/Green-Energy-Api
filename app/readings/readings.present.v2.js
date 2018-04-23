@@ -26,6 +26,7 @@ router.post('/meter-read/', (req, res) => {
             res.sendStatus(404);
         }
     }).catch((err) => {
+        debug(err);
         res.status(400).send(err.message);
     });
 });
