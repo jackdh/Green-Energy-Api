@@ -1,0 +1,1532 @@
+[
+  {
+    "customerId": "Shari17963105",
+    "serialNumber": 78656147310,
+    "mpxn": 24612097,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 83630,
+        "value": 4367
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 24062,
+        "value": 7315
+      }
+    ],
+    "readDate": "2014-08-28T07:53:42+00:00"
+  },
+  {
+    "customerId": "Vincent15810778",
+    "serialNumber": 53406743863,
+    "mpxn": 33004982,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 62012,
+        "value": 1098
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 23210,
+        "value": 6894
+      }
+    ],
+    "readDate": "2014-12-17T00:13:24+00:00"
+  },
+  {
+    "customerId": "Shari17963105",
+    "serialNumber": 94180203800,
+    "mpxn": 24612097,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 39143,
+        "value": 5684
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 15015,
+        "value": 7760
+      }
+    ],
+    "readDate": "2017-05-14T13:17:23+00:00"
+  },
+  {
+    "customerId": "Howe22055610",
+    "serialNumber": 67034753703,
+    "mpxn": 84899062,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 84691,
+        "value": 7894
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 52852,
+        "value": 7735
+      }
+    ],
+    "readDate": "2017-12-25T05:13:47+00:00"
+  },
+  {
+    "customerId": "Harrington37467229",
+    "serialNumber": 42619176912,
+    "mpxn": 60010515,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 76979,
+        "value": 5789
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 72995,
+        "value": 9821
+      }
+    ],
+    "readDate": "2015-09-27T08:20:28+00:00"
+  },
+  {
+    "customerId": "Felicia999389",
+    "serialNumber": 43907954640,
+    "mpxn": 55231785,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 58669,
+        "value": 2433
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 28266,
+        "value": 1445
+      }
+    ],
+    "readDate": "2015-12-06T13:30:13+00:00"
+  },
+  {
+    "customerId": "Shari17963105",
+    "serialNumber": 87286515938,
+    "mpxn": 24612097,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 82325,
+        "value": 6913
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 18270,
+        "value": 6733
+      }
+    ],
+    "readDate": "2016-10-03T19:48:37+00:00"
+  },
+  {
+    "customerId": "Jacqueline37644603",
+    "serialNumber": 25200654921,
+    "mpxn": 95967787,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 53169,
+        "value": 4573
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 91036,
+        "value": 8562
+      }
+    ],
+    "readDate": "2016-02-12T21:17:10+00:00"
+  },
+  {
+    "customerId": "Rivera36531867",
+    "serialNumber": 49553763306,
+    "mpxn": 42950917,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 48277,
+        "value": 9517
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 83873,
+        "value": 3143
+      }
+    ],
+    "readDate": "2014-10-01T02:07:51+00:00"
+  },
+  {
+    "customerId": "Jayne26957834",
+    "serialNumber": 35797359681,
+    "mpxn": 61299636,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 73242,
+        "value": 3137
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 36167,
+        "value": 2244
+      }
+    ],
+    "readDate": "2017-01-15T07:26:15+00:00"
+  },
+  {
+    "customerId": "Debora39026257",
+    "serialNumber": 47135691793,
+    "mpxn": 28025155,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 22565,
+        "value": 5677
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 79691,
+        "value": 5310
+      }
+    ],
+    "readDate": "2015-12-31T04:03:31+00:00"
+  },
+  {
+    "customerId": "Iva12516039",
+    "serialNumber": 49898703309,
+    "mpxn": 33583826,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 31616,
+        "value": 6042
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 64466,
+        "value": 4980
+      }
+    ],
+    "readDate": "2017-08-21T18:09:43+00:00"
+  },
+  {
+    "customerId": "Rivera36531867",
+    "serialNumber": 33972136172,
+    "mpxn": 90123278,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 79874,
+        "value": 4419
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 95444,
+        "value": 6044
+      }
+    ],
+    "readDate": "2016-05-29T15:08:48+00:00"
+  },
+  {
+    "customerId": "Holland26051536",
+    "serialNumber": 83308825646,
+    "mpxn": 28454987,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 74041,
+        "value": 3132
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 80253,
+        "value": 4060
+      }
+    ],
+    "readDate": "2016-04-23T06:39:25+00:00"
+  },
+  {
+    "customerId": "Meadows36505819",
+    "serialNumber": 76735475538,
+    "mpxn": 18145623,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 12131,
+        "value": 8112
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 43013,
+        "value": 5934
+      }
+    ],
+    "readDate": "2014-08-17T23:29:19+00:00"
+  },
+  {
+    "customerId": "Casandra33202265",
+    "serialNumber": 73877757079,
+    "mpxn": 68164826,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 67381,
+        "value": 8197
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 39234,
+        "value": 3351
+      }
+    ],
+    "readDate": "2014-01-02T11:00:35+00:00"
+  },
+  {
+    "customerId": "Mckinney14447421",
+    "serialNumber": 94014507495,
+    "mpxn": 57703539,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 32995,
+        "value": 6411
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 41187,
+        "value": 8689
+      }
+    ],
+    "readDate": "2014-01-12T00:35:08+00:00"
+  },
+  {
+    "customerId": "Elva16739232",
+    "serialNumber": 54842891739,
+    "mpxn": 98510908,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 30677,
+        "value": 4597
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 42512,
+        "value": 8026
+      }
+    ],
+    "readDate": "2017-10-18T12:46:07+00:00"
+  },
+  {
+    "customerId": "Elva16739232",
+    "serialNumber": 53294605031,
+    "mpxn": 68460255,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 19476,
+        "value": 7190
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 33847,
+        "value": 5577
+      }
+    ],
+    "readDate": "2014-06-15T15:23:32+00:00"
+  },
+  {
+    "customerId": "Marta19494683",
+    "serialNumber": 58753708122,
+    "mpxn": 75235562,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 99508,
+        "value": 5332
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 41023,
+        "value": 4895
+      }
+    ],
+    "readDate": "2017-04-20T18:54:21+00:00"
+  },
+  {
+    "customerId": "Elva16739232",
+    "serialNumber": 55391247793,
+    "mpxn": 79903941,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 40152,
+        "value": 2380
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 64058,
+        "value": 3196
+      }
+    ],
+    "readDate": "2016-03-22T11:17:41+00:00"
+  },
+  {
+    "customerId": "Angelique26469303",
+    "serialNumber": 78764600024,
+    "mpxn": 32076930,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 82578,
+        "value": 5481
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 52751,
+        "value": 9390
+      }
+    ],
+    "readDate": "2014-10-27T09:59:14+00:00"
+  },
+  {
+    "customerId": "Sheryl25720257",
+    "serialNumber": 77108291775,
+    "mpxn": 62999842,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 68141,
+        "value": 1993
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 37399,
+        "value": 7603
+      }
+    ],
+    "readDate": "2014-11-13T23:32:39+00:00"
+  },
+  {
+    "customerId": "Jerry35604187",
+    "serialNumber": 44163053283,
+    "mpxn": 51056549,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 31188,
+        "value": 6264
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 91023,
+        "value": 4332
+      }
+    ],
+    "readDate": "2015-07-10T05:58:09+00:00"
+  },
+  {
+    "customerId": "Stone35098799",
+    "serialNumber": 91971878022,
+    "mpxn": 69823757,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 31725,
+        "value": 9989
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 31279,
+        "value": 3369
+      }
+    ],
+    "readDate": "2017-05-27T20:09:57+00:00"
+  },
+  {
+    "customerId": "Middleton13248394",
+    "serialNumber": 85113653389,
+    "mpxn": 58793364,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 84862,
+        "value": 7914
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 34439,
+        "value": 4778
+      }
+    ],
+    "readDate": "2015-07-25T19:33:20+00:00"
+  },
+  {
+    "customerId": "Salas26496284",
+    "serialNumber": 38803189499,
+    "mpxn": 25917966,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 55795,
+        "value": 9936
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 86038,
+        "value": 5059
+      }
+    ],
+    "readDate": "2017-07-17T16:46:21+00:00"
+  },
+  {
+    "customerId": "Marie3331583",
+    "serialNumber": 77022682831,
+    "mpxn": 91001741,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 25896,
+        "value": 4221
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 62974,
+        "value": 4553
+      }
+    ],
+    "readDate": "2017-12-03T16:02:51+00:00"
+  },
+  {
+    "customerId": "Marie3331583",
+    "serialNumber": 39081646304,
+    "mpxn": 25459601,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 31586,
+        "value": 5176
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 63650,
+        "value": 3346
+      }
+    ],
+    "readDate": "2015-01-27T01:57:39+00:00"
+  },
+  {
+    "customerId": "Howe22055610",
+    "serialNumber": 60447399386,
+    "mpxn": 11723794,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 67285,
+        "value": 7300
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 95695,
+        "value": 4115
+      }
+    ],
+    "readDate": "2014-10-23T23:15:06+00:00"
+  },
+  {
+    "customerId": "Shari17963105",
+    "serialNumber": 33701656435,
+    "mpxn": 52154454,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 60151,
+        "value": 3024
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 86813,
+        "value": 4500
+      }
+    ],
+    "readDate": "2016-12-07T09:39:11+00:00"
+  },
+  {
+    "customerId": "Kramer1653485",
+    "serialNumber": 84278893378,
+    "mpxn": 77402590,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 29176,
+        "value": 3253
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 86092,
+        "value": 4042
+      }
+    ],
+    "readDate": "2016-05-25T18:24:32+00:00"
+  },
+  {
+    "customerId": "Norton11052015",
+    "serialNumber": 95445391801,
+    "mpxn": 85912657,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 86422,
+        "value": 9571
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 51718,
+        "value": 7336
+      }
+    ],
+    "readDate": "2015-03-13T22:20:17+00:00"
+  },
+  {
+    "customerId": "Salas26496284",
+    "serialNumber": 89853689897,
+    "mpxn": 10783329,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 25528,
+        "value": 8797
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 11215,
+        "value": 3392
+      }
+    ],
+    "readDate": "2017-01-02T08:52:03+00:00"
+  },
+  {
+    "customerId": "Fitzpatrick28884858",
+    "serialNumber": 35466637603,
+    "mpxn": 21723067,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 81544,
+        "value": 3114
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 79216,
+        "value": 3414
+      }
+    ],
+    "readDate": "2016-03-23T04:14:22+00:00"
+  },
+  {
+    "customerId": "Salas26496284",
+    "serialNumber": 52773482220,
+    "mpxn": 88258600,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 48741,
+        "value": 2767
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 58447,
+        "value": 8590
+      }
+    ],
+    "readDate": "2015-11-20T19:38:25+00:00"
+  },
+  {
+    "customerId": "Fannie14962706",
+    "serialNumber": 65565242929,
+    "mpxn": 16672228,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 13604,
+        "value": 4517
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 64323,
+        "value": 1302
+      }
+    ],
+    "readDate": "2014-07-18T02:53:52+00:00"
+  },
+  {
+    "customerId": "Emilia684529",
+    "serialNumber": 99714232931,
+    "mpxn": 50025428,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 89395,
+        "value": 3688
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 67883,
+        "value": 1891
+      }
+    ],
+    "readDate": "2017-08-23T00:25:16+00:00"
+  },
+  {
+    "customerId": "Shari17963105",
+    "serialNumber": 47700714756,
+    "mpxn": 52154454,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 12660,
+        "value": 9710
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 39118,
+        "value": 5146
+      }
+    ],
+    "readDate": "2015-11-02T03:32:54+00:00"
+  },
+  {
+    "customerId": "Carey36626952",
+    "serialNumber": 97304754334,
+    "mpxn": 55885700,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 84774,
+        "value": 7674
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 61085,
+        "value": 6335
+      }
+    ],
+    "readDate": "2016-01-19T09:53:41+00:00"
+  },
+  {
+    "customerId": "Hebert28652464",
+    "serialNumber": 46964860914,
+    "mpxn": 55970324,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 28220,
+        "value": 9034
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 82784,
+        "value": 1420
+      }
+    ],
+    "readDate": "2016-10-07T04:42:47+00:00"
+  },
+  {
+    "customerId": "Meadows36505819",
+    "serialNumber": 39776981788,
+    "mpxn": 27982596,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 44521,
+        "value": 4036
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 92735,
+        "value": 3345
+      }
+    ],
+    "readDate": "2017-09-09T15:32:43+00:00"
+  },
+  {
+    "customerId": "Velasquez4234823",
+    "serialNumber": 69374479548,
+    "mpxn": 52888803,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 40724,
+        "value": 1096
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 82420,
+        "value": 3113
+      }
+    ],
+    "readDate": "2017-06-18T19:28:45+00:00"
+  },
+  {
+    "customerId": "Goodwin3336888",
+    "serialNumber": 71129507902,
+    "mpxn": 30891280,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 62737,
+        "value": 9544
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 88819,
+        "value": 6443
+      }
+    ],
+    "readDate": "2016-06-10T16:15:10+00:00"
+  },
+  {
+    "customerId": "Middleton13248394",
+    "serialNumber": 66960738034,
+    "mpxn": 20594792,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 81217,
+        "value": 7743
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 14079,
+        "value": 3081
+      }
+    ],
+    "readDate": "2017-05-02T05:57:29+00:00"
+  },
+  {
+    "customerId": "Felicia999389",
+    "serialNumber": 74653019327,
+    "mpxn": 51735264,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 58301,
+        "value": 4406
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 68874,
+        "value": 8678
+      }
+    ],
+    "readDate": "2016-12-05T08:43:49+00:00"
+  },
+  {
+    "customerId": "Fannie14962706",
+    "serialNumber": 77538095756,
+    "mpxn": 40094786,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 47909,
+        "value": 3383
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 90251,
+        "value": 4246
+      }
+    ],
+    "readDate": "2015-06-02T13:23:50+00:00"
+  },
+  {
+    "customerId": "Carey36626952",
+    "serialNumber": 45996172903,
+    "mpxn": 73761779,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 66148,
+        "value": 6716
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 96215,
+        "value": 1377
+      }
+    ],
+    "readDate": "2017-02-26T08:10:11+00:00"
+  },
+  {
+    "customerId": "Faye33316191",
+    "serialNumber": 44969908584,
+    "mpxn": 67449555,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 33271,
+        "value": 9019
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 79273,
+        "value": 5739
+      }
+    ],
+    "readDate": "2015-02-23T02:03:40+00:00"
+  },
+  {
+    "customerId": "Vincent15810778",
+    "serialNumber": 14677424253,
+    "mpxn": 60004681,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 33097,
+        "value": 7845
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 85837,
+        "value": 4526
+      }
+    ],
+    "readDate": "2014-08-04T04:02:04+00:00"
+  },
+  {
+    "customerId": "Felicia999389",
+    "serialNumber": 42943821239,
+    "mpxn": 47583765,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 86781,
+        "value": 3626
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 66615,
+        "value": 3483
+      }
+    ],
+    "readDate": "2014-01-12T00:54:35+00:00"
+  },
+  {
+    "customerId": "Camacho9380622",
+    "serialNumber": 91870986893,
+    "mpxn": 11520791,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 25765,
+        "value": 6065
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 34316,
+        "value": 6563
+      }
+    ],
+    "readDate": "2018-03-25T11:55:20+00:00"
+  },
+  {
+    "customerId": "Elva16739232",
+    "serialNumber": 84807594834,
+    "mpxn": 53732224,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 60087,
+        "value": 7196
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 61664,
+        "value": 1124
+      }
+    ],
+    "readDate": "2014-03-05T06:02:40+00:00"
+  },
+  {
+    "customerId": "Middleton13248394",
+    "serialNumber": 46198737311,
+    "mpxn": 36557565,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 36998,
+        "value": 2711
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 14687,
+        "value": 7444
+      }
+    ],
+    "readDate": "2015-11-19T23:17:32+00:00"
+  },
+  {
+    "customerId": "Carey36626952",
+    "serialNumber": 50054927740,
+    "mpxn": 67739888,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 80543,
+        "value": 5133
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 58993,
+        "value": 4295
+      }
+    ],
+    "readDate": "2016-03-25T06:26:41+00:00"
+  },
+  {
+    "customerId": "Jayne26957834",
+    "serialNumber": 40063095121,
+    "mpxn": 51642657,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 16443,
+        "value": 6716
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 91053,
+        "value": 7228
+      }
+    ],
+    "readDate": "2014-12-09T16:17:04+00:00"
+  },
+  {
+    "customerId": "Aileen14683601",
+    "serialNumber": 96135651130,
+    "mpxn": 71264038,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 64921,
+        "value": 2506
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 98040,
+        "value": 7652
+      }
+    ],
+    "readDate": "2017-05-13T09:14:03+00:00"
+  },
+  {
+    "customerId": "Kramer1653485",
+    "serialNumber": 41083012992,
+    "mpxn": 97423097,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 45961,
+        "value": 2322
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 37870,
+        "value": 8759
+      }
+    ],
+    "readDate": "2014-08-03T01:12:34+00:00"
+  },
+  {
+    "customerId": "Faye33316191",
+    "serialNumber": 64917600451,
+    "mpxn": 26942326,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 84374,
+        "value": 9994
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 23464,
+        "value": 8415
+      }
+    ],
+    "readDate": "2017-03-30T03:43:04+00:00"
+  },
+  {
+    "customerId": "Hebert28652464",
+    "serialNumber": 61189606684,
+    "mpxn": 53581686,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 15375,
+        "value": 9099
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 20494,
+        "value": 6983
+      }
+    ],
+    "readDate": "2017-03-08T22:50:55+00:00"
+  },
+  {
+    "customerId": "Holland26051536",
+    "serialNumber": 36783615297,
+    "mpxn": 34932237,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 20747,
+        "value": 1878
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 66053,
+        "value": 5082
+      }
+    ],
+    "readDate": "2016-06-02T18:36:39+00:00"
+  },
+  {
+    "customerId": "Carey36626952",
+    "serialNumber": 77789388378,
+    "mpxn": 10301754,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 19002,
+        "value": 8384
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 78498,
+        "value": 5772
+      }
+    ],
+    "readDate": "2015-02-23T05:20:51+00:00"
+  },
+  {
+    "customerId": "Howe22055610",
+    "serialNumber": 69995156183,
+    "mpxn": 31273361,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 63653,
+        "value": 5234
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 65163,
+        "value": 6034
+      }
+    ],
+    "readDate": "2014-12-26T20:37:40+00:00"
+  },
+  {
+    "customerId": "Dionne38742030",
+    "serialNumber": 88533258477,
+    "mpxn": 22253692,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 31466,
+        "value": 4540
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 52972,
+        "value": 1940
+      }
+    ],
+    "readDate": "2014-12-15T08:05:50+00:00"
+  },
+  {
+    "customerId": "Sue5454719",
+    "serialNumber": 39194760293,
+    "mpxn": 28178516,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 17117,
+        "value": 6635
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 23769,
+        "value": 1178
+      }
+    ],
+    "readDate": "2017-07-12T21:47:38+00:00"
+  },
+  {
+    "customerId": "Helga25752534",
+    "serialNumber": 61660996856,
+    "mpxn": 49933815,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 24506,
+        "value": 2661
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 43914,
+        "value": 7798
+      }
+    ],
+    "readDate": "2015-10-01T09:55:56+00:00"
+  },
+  {
+    "customerId": "Michelle18324819",
+    "serialNumber": 11160186946,
+    "mpxn": 37708053,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 42599,
+        "value": 3390
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 14752,
+        "value": 9981
+      }
+    ],
+    "readDate": "2017-05-16T09:31:34+00:00"
+  },
+  {
+    "customerId": "Jacqueline37644603",
+    "serialNumber": 96330445419,
+    "mpxn": 15419117,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 13950,
+        "value": 9820
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 25774,
+        "value": 4063
+      }
+    ],
+    "readDate": "2014-05-05T03:12:13+00:00"
+  },
+  {
+    "customerId": "Nettie22405163",
+    "serialNumber": 98822790288,
+    "mpxn": 78147230,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 30427,
+        "value": 8911
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 93606,
+        "value": 3462
+      }
+    ],
+    "readDate": "2014-01-07T00:31:32+00:00"
+  },
+  {
+    "customerId": "Debora39026257",
+    "serialNumber": 41268669338,
+    "mpxn": 35317208,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 67427,
+        "value": 7040
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 40945,
+        "value": 5245
+      }
+    ],
+    "readDate": "2016-07-10T18:16:02+00:00"
+  },
+  {
+    "customerId": "Marie3331583",
+    "serialNumber": 27243035281,
+    "mpxn": 50172500,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 26949,
+        "value": 5347
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 84648,
+        "value": 4122
+      }
+    ],
+    "readDate": "2016-04-01T04:36:26+00:00"
+  },
+  {
+    "customerId": "Shari17963105",
+    "serialNumber": 74631020370,
+    "mpxn": 52154454,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 85546,
+        "value": 3044
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 86007,
+        "value": 5577
+      }
+    ],
+    "readDate": "2015-12-31T03:36:25+00:00"
+  },
+  {
+    "customerId": "Janet38957211",
+    "serialNumber": 63570830146,
+    "mpxn": 16087195,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 90061,
+        "value": 2519
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 68774,
+        "value": 9512
+      }
+    ],
+    "readDate": "2017-02-26T00:00:07+00:00"
+  },
+  {
+    "customerId": "Michelle18324819",
+    "serialNumber": 68896049780,
+    "mpxn": 84972504,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 56408,
+        "value": 7157
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 37078,
+        "value": 3274
+      }
+    ],
+    "readDate": "2014-11-12T02:06:25+00:00"
+  },
+  {
+    "customerId": "Goodwin3336888",
+    "serialNumber": 67442316224,
+    "mpxn": 31388036,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 75720,
+        "value": 1956
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 27009,
+        "value": 3867
+      }
+    ],
+    "readDate": "2014-03-30T04:23:41+00:00"
+  },
+  {
+    "customerId": "Glenna1759312",
+    "serialNumber": 42546898441,
+    "mpxn": 97117442,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 14813,
+        "value": 5405
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 33122,
+        "value": 7264
+      }
+    ],
+    "readDate": "2017-08-26T11:38:10+00:00"
+  },
+  {
+    "customerId": "Salas26496284",
+    "serialNumber": 55205265930,
+    "mpxn": 46758308,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 13232,
+        "value": 1239
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 90546,
+        "value": 5884
+      }
+    ],
+    "readDate": "2017-10-28T11:30:51+00:00"
+  },
+  {
+    "customerId": "Fannie14962706",
+    "serialNumber": 88344730956,
+    "mpxn": 88758218,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 10135,
+        "value": 3756
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 49010,
+        "value": 1523
+      }
+    ],
+    "readDate": "2015-05-28T17:50:45+00:00"
+  },
+  {
+    "customerId": "Shari17963105",
+    "serialNumber": 54683886536,
+    "mpxn": 52154454,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 27115,
+        "value": 3447
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 73593,
+        "value": 4875
+      }
+    ],
+    "readDate": "2014-12-23T08:58:15+00:00"
+  },
+  {
+    "customerId": "Simpson34177761",
+    "serialNumber": 94908796813,
+    "mpxn": 59048243,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 43681,
+        "value": 1936
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 73870,
+        "value": 4267
+      }
+    ],
+    "readDate": "2018-04-05T00:41:58+00:00"
+  },
+  {
+    "customerId": "Rosa7803394",
+    "serialNumber": 75901863028,
+    "mpxn": 45232019,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 11569,
+        "value": 6844
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 35545,
+        "value": 9939
+      }
+    ],
+    "readDate": "2016-07-02T13:51:56+00:00"
+  },
+  {
+    "customerId": "Rivera36531867",
+    "serialNumber": 31090961243,
+    "mpxn": 80396564,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 89398,
+        "value": 4134
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 42053,
+        "value": 5840
+      }
+    ],
+    "readDate": "2015-03-03T08:49:45+00:00"
+  },
+  {
+    "customerId": "Harrington37467229",
+    "serialNumber": 23263337528,
+    "mpxn": 85924217,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 93424,
+        "value": 4392
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 13320,
+        "value": 7035
+      }
+    ],
+    "readDate": "2018-02-27T03:22:49+00:00"
+  },
+  {
+    "customerId": "Burris26384549",
+    "serialNumber": 45993915654,
+    "mpxn": 78642915,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 20368,
+        "value": 6523
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 56522,
+        "value": 1070
+      }
+    ],
+    "readDate": "2015-08-16T23:32:39+00:00"
+  },
+  {
+    "customerId": "Howe22055610",
+    "serialNumber": 28542166329,
+    "mpxn": 98692060,
+    "read": [
+      {
+        "type": "ANYTIME",
+        "registerId": 45382,
+        "value": 3450
+      },
+      {
+        "type": "NIGHT",
+        "registerId": 87032,
+        "value": 6756
+      }
+    ],
+    "readDate": "2014-02-22T12:07:03+00:00"
+  }
+]
