@@ -1,6 +1,6 @@
 {
   "name": "GreenEnergy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jack Dalrymple Hamilton",
   "description": "Green Energy is an established utility company, and they have approached us to create a service for accepting meter reads. The main goal here is to *accept*, *store* and *present* meter readings based on a customer's unique identifier.",
   "main": "index.js",
