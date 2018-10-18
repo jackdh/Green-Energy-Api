@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jackdh/GE.svg?branch=master)](https://travis-ci.org/jackdh/GE)
+[![Build Status](https://travis-ci.org/jackdh/Green-Energy-Api.svg?branch=master)](https://travis-ci.org/jackdh/Green-Energy-Api)
 
 # Creating a service to accept meter reads.
 
